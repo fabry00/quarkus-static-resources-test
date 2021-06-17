@@ -1,0 +1,6 @@
+quarkus:
+  native:
+    resources:
+      includes: data/**, schemas/**
+
+org.acme.rest.client.CountriesService/mp-rest/url: https://restcountries.eu/rest
