@@ -1,3 +1,3 @@
 #!/bin/bash
 
-curl http://localhost:8080/hrt/api/docs/index.html -v
+curl http://localhost:8080/mytest/docs/index.html -v
