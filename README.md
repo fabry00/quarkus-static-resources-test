@@ -8,7 +8,7 @@
 Output
 ```
 * Connected to localhost (::1) port 8080 (#0)
-> GET /hrt/api/docs/index.html HTTP/1.1
+> GET /mytest/docs/index.html HTTP/1.1
 > Host: localhost:8080
 > User-Agent: curl/7.75.0
 > Accept: */*
